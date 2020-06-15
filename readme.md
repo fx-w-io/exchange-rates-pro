@@ -8,4 +8,4 @@ Extended version of Currency Converter widget, that can multiple currencies real
 * 🤑 The client chooses any currency;
 * 💶 Multi-currency support;
 
-Get widget: https://fx-w.io/currency-converter-pro/
+Get widget: https://fx-w.io/exchange-rates-pro/
