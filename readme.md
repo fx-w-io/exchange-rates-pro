@@ -14,9 +14,9 @@ Get widget: https://fx-w.io/exchange-rates-pro/
 
 ## For Developers
 
-**Tag of widget:** <fxwidget-erp></fxwidget-erp>
+**Tag of widget:** `<fxwidget-erp></fxwidget-erp>`
 
-JavaScript: <script src="https://s.fx-w.io/widgets/exchange-rates-pro/latest.js"></script>
+JavaScript: `<script src="https://s.fx-w.io/widgets/exchange-rates-pro/latest.js"></script>`
 
 The table below contains a list of attributes that can be applied to a widget.
 
