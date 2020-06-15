@@ -1,4 +1,4 @@
-# Exchange Rates PRO
+# 💲 Exchange Rates PRO
 
 Extended version of Currency Converter widget, that can multiple currencies real-time calculation and which has all the features of a classical currency converter.
 
